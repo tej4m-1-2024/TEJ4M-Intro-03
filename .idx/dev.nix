@@ -15,6 +15,9 @@
     # Search for the extensions you want on https://open-vsx.org/ and use "publisher.id"
     extensions = [
       # "vscodevim.vim"
+      "GitHub.github-vscode-theme"
+      "ms-python.debugpy"
+      "ms-python.python"
     ];
 
     # Enable previews
